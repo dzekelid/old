@@ -7,11 +7,95 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "383974"
 tags: Old
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Xignite Global Indices - Get Index Symbol Mapping By Old Symbol
+  x-api-slug: getindexsymbolmappingbyoldsymbol-get
+  description: Get index symbol mapping by old symbol.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindices.xignite.com/xglobalindices.json/XigniteGlobalIndices
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingbyoldsymbol-get-openapi.md
+- name: Xignite Global Indices - Get Index Symbol Mappings By Old Symbols
+  x-api-slug: getindexsymbolmappingsbyoldsymbols-get
+  description: Get index symbol mappings by old symbols.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindices.xignite.com/xglobalindices.json/XigniteGlobalIndices
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingsbyoldsymbols-get-openapi.md
+- name: Xignite Global Indices Historical - Get Index Symbol Mapping By Old Symbol
+  x-api-slug: getindexsymbolmappingbyoldsymbol-get
+  description: Get index symbol mapping by old symbol.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindiceshistorical.xignite.com/xglobalindiceshistorical.json/XigniteGlobalIndicesHistorical
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingbyoldsymbol-get-openapi.md
+- name: Xignite Global Indices Historical - Get Index Symbol Mappings By Old Symbols
+  x-api-slug: getindexsymbolmappingsbyoldsymbols-get
+  description: Get index symbol mappings by old symbols.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindiceshistorical.xignite.com/xglobalindiceshistorical.json/XigniteGlobalIndicesHistorical
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingsbyoldsymbols-get-openapi.md
+- name: Xignite Global Indices Real Time - Get Index Symbol Mapping By Old Symbol
+  x-api-slug: getindexsymbolmappingbyoldsymbol-get
+  description: Get index symbol mapping by old symbol.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindicesrealtime.xignite.com/xglobalindicesrealtime.json/XigniteGlobalIndicesRealTime
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingbyoldsymbol-get-openapi.md
+- name: Xignite Global Indices Real Time - Get Index Symbol Mappings By Old Symbols
+  x-api-slug: getindexsymbolmappingsbyoldsymbols-get
+  description: Get index symbol mappings by old symbols.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalindicesrealtime.xignite.com/xglobalindicesrealtime.json/XigniteGlobalIndicesRealTime
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/old/master/_listings/xignite/getindexsymbolmappingsbyoldsymbols-get-openapi.md
 x-common:
 - type: x--net-sdk
   url: http://xignite.github.io/DotNetSDK/
